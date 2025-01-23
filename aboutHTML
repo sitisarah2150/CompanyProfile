@@ -1,1 +1,14 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latihan GIT</title>
+</head>
+<body>
+    <header>YTTA Disini</header>
+    <h1>CNC STORE BANDUNG</h1>
+    <div>Ini file dari about html.</div>
+    <footer>Taun ini bisa bikin projek web sendiri</footer>
+</body>
+</html>
